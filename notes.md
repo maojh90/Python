@@ -5,4 +5,5 @@ string必须加单引号或者双引号 不加引号就是变量  quotes引用
 print("hey now cow") 
 print('c:\Desktop\nude') is wrong, because  "\n" means newline 
 and the right code is : print(r'c:\Desktop\nude')
-we can also assign a var to string    and  the var can plus a new string  like:  var+"black"
+we can also assign a var to string    and  the var can plus a new string  like:  var+"black"
+var * 5  mean the string repeat 5 times
