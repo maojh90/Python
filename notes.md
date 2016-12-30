@@ -8,5 +8,5 @@ and the right code is : print(r'c:\Desktop\nude')
 we can also assign a var to string    and  the var can plus a new string  like:  var+"black"
 var * 5  mean the string repeat 5 times
 ipython 运行py脚本  run \*.py    直接编辑py脚本   edit \*.py     *相当于注释，中间为斜体 两个\*\*相当于强调会是加粗*
-python 对缩进敏感 pyhton从第一维开始设定，后面可以用一个：来统一设定 必须要用.shape 才能判定它是几维的 \n
+python 对缩进敏感 pyhton从第一维开始设定，后面可以用一个：来统一设定 必须要用.shape 才能判定它是几维的
 print 要写在return之前  不然会认为是一个单独的一块
